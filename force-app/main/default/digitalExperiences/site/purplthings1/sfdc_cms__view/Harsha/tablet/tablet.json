@@ -1,0 +1,22 @@
+{
+  "type" : "sfdc_cms__view",
+  "title" : "Harsha",
+  "contentBody" : {
+    "component" : {
+      "children" : [ {
+        "attributes" : {
+          "dxpStyle" : {
+            "margin" : {
+              "bottom" : "542px",
+              "left" : "542px",
+              "right" : "542px",
+              "top" : "542px"
+            }
+          }
+        },
+        "id" : "055d3e26-e048-427c-a018-94ac05e1bdca"
+      } ]
+    }
+  },
+  "urlName" : "harsha"
+}
